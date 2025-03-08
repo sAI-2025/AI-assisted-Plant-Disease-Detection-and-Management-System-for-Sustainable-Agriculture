@@ -1,0 +1,6 @@
+train: /content/plant_disease_dataset/images/
+val: /content/plant_disease_dataset/images/
+test: /content/plant_disease_dataset/images/
+
+nc: 3
+names: ['class1', 'class2', 'class3']
