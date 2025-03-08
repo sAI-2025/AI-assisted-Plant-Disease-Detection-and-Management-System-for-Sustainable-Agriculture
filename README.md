@@ -1,9 +1,4 @@
-Here’s a professional project description and a structured README file for your AI-assisted plant disease detection project.  
-
----
-
-## **Project Title:**  
-**AI-Assisted Plant Disease Detection and Management System**  
+# **AI-Assisted Plant Disease Detection and Management System**  
 
 ## **Project Description:**  
 The **AI-Assisted Plant Disease Detection and Management System** is a deep learning-based solution designed to assist farmers and agricultural experts in identifying and managing plant diseases efficiently. This project utilizes **YOLOv5**, a state-of-the-art object detection model, to recognize diseases in **cotton plants** by analyzing images of plant leaves. The system not only detects and classifies plant diseases but also provides **crop recommendations and pesticide suggestions** to improve sustainable agricultural practices.  
