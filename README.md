@@ -9,23 +9,9 @@ A **user-friendly web application**, built using **Streamlit**, allows users to 
 - **Automated Disease Detection:** Uses YOLOv5 to identify plant diseases from images.  
 - **Crop and Pesticide Recommendations:** Provides actionable insights based on disease detection.  
 - **Web-Based Deployment:** A simple interface using Streamlit for real-time disease detection.  
-- **Scalable & Reproducible:** Can be expanded for other plant species with additional training data.  
-
----
-
-## **Sample README File**  
-
-```md
-# AI-Assisted Plant Disease Detection and Management System
-
-## Overview  
-This project focuses on identifying and classifying plant diseases in **cotton plants** using **YOLOv5**, a popular deep-learning model for object detection. The system suggests appropriate pesticides and crop recommendations to aid sustainable agriculture. A **Streamlit-based web application** allows users to upload plant leaf images and receive real-time predictions.
-
-## Features  
-- **Disease Detection:** Detects and classifies plant diseases using YOLOv5.  
+- **Scalable & Reproducible:** Can be expanded for other plant species with additional training data.
 - **Pesticide and Crop Recommendations:** Provides treatment suggestions for detected diseases.  
 - **Web Interface:** Built using Streamlit for easy access and usability.  
-- **Deployable on Cloud:** Compatible with Google Colab and AWS/GCP for scalable deployment.  
 
 ## Project Structure  
 ```
